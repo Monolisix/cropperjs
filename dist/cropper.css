@@ -5,7 +5,7 @@
  * Copyright 2015-present Chen Fengyuan
  * Released under the MIT license
  *
- * Date: 2020-04-09T07:16:58.406Z
+ * Date: 2020-08-17T06:33:28.610Z
  */
 
 .cropper-container {
@@ -60,6 +60,7 @@
 }
 
 .cropper-view-box {
+  border: 1px solid #fff;
   border-radius: 50%;
   display: block;
   height: 100%;
